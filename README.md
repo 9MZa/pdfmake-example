@@ -1,5 +1,7 @@
 # PDFMake Example
 
+![Thumbnail Preview](https://raw.githubusercontent.com/9MZa/pdfmake-example/main/thumbnail.png)
+
 #### [Custom Fonts](https://pdfmake.github.io/docs/0.1/fonts/custom-fonts-client-side/vfs/)
 
 #### Source
